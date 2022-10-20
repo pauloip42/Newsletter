@@ -1,0 +1,21 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloip42/Newsletter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloip42/Newsletter/issues"
+  },
+  "homepage": "https://github.com/pauloip42/Newsletter#readme"
+}
